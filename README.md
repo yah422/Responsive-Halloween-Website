@@ -1,6 +1,6 @@
 # Site Web Halloween Responsive
 
-![Halloween](https://via.placeholder.com/150)
+![image](https://github.com/user-attachments/assets/fe02a03a-fd86-4798-8315-a3c695b1f0a9)
 
 ## Description du projet
 
