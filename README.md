@@ -4,6 +4,7 @@
 
 ## Description du projet
 
+
 **Responsive Halloween Website** est la reproduction d'un tutoriel de Bedim sur la conception d'un site web d'Halloween. Ce projet utilise HTML, CSS et JavaScript pour créer une expérience utilisateur immersive et festive.
 
 ## Fonctionnalités
